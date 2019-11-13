@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ProdusRegistry
+comment1.params=type
+comment1.target=Produs\ getInstance(ProdusRegistry.ProdusType)
+numComments=2

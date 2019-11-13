@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DatabaseManagerFactory
+comment1.params=
+comment1.target=void\ select()
+comment2.params=
+comment2.target=void\ insert()
+comment3.params=type
+comment3.target=DatabaseManagerFactory\ create(DatabaseManagerFactory.DataType)
+numComments=4

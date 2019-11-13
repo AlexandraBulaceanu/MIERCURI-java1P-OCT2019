@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Magazin
+comment1.params=
+comment1.target=java.lang.String\ getNume()
+comment2.params=
+comment2.target=java.util.List\ getProduse()
+comment3.params=
+comment3.target=Magazin()
+comment4.params=
+comment4.target=Magazin\ getInstance()
+comment5.params=
+comment5.target=Magazin\ getInstance2()
+comment6.params=
+comment6.target=Magazin\ getInstance3()
+numComments=7
