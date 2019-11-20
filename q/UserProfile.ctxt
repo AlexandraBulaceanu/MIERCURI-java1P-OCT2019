@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UserProfile
+comment1.params=
+comment1.target=void\ addPhoto()
+comment2.params=l
+comment2.target=void\ addListener(Listener)
+comment3.params=l
+comment3.target=void\ removeListener(Listener)
+comment4.params=
+comment4.target=void\ notifyListeners()
+numComments=5
